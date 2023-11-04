@@ -9,19 +9,23 @@
 ## Outline of Project
 
   * Import Libraries
-  * Load the Dataset
+    
+  * xLoad the Dataset
+    
   * Data preparation
       * Data transformation
       * Encoding and Normalization
+        
   * Features selection
-      * Chi-Squared Statistic
-      * Mutual Information Statistic
-      * Feature Importance
       * Correlation Matrix with Heatmap
+      * p-value Statistic
+      * Feature Importance
+        
   * Classification models
-      * Train and Test DataSets creation
-      * Extra Trees Classifier
-      * Logistic regression 
-  * Decision tree 
-      * Build model
-      * Visualization of decision tree
+      * Logistic regression
+      * K Nearest Neighbours
+      * SVM Classifier
+      * Navie Bayes
+      * Decision tree 
+      * Random Forest
+      * XGBoost
