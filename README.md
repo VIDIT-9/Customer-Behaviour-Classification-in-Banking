@@ -8,9 +8,10 @@
 
 ## Outline of Project
 
-  * Import Libraries
+  * Import Libraries and Load the Dataset
     
-  * xLoad the Dataset
+  * Understanding the Data
+  * Exploratory Data Analysis
     
   * Data preparation
       * Data transformation
