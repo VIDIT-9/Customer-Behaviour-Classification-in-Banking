@@ -1,4 +1,4 @@
-# Customer-Behaviour-Classification-in-Banking
+# Customer Behaviour Classification in Banking
 
 
 ## Problem Statement
