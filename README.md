@@ -30,3 +30,6 @@
       * Decision tree 
       * Random Forest
       * XGBoost
+
+
+ <img width="915" alt="Screenshot 2023-12-21 at 3 58 43 AM" src="https://github.com/VIDIT-9/Customer-Behaviour-Classification-in-Banking/assets/102579972/fc9cb71a-093b-44bc-9023-9d93c84ba509">
