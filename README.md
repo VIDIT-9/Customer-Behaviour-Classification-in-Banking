@@ -22,6 +22,8 @@
       * p-value Statistic
       * Feature Importance
         
+  * Oversampling using SMOTE
+   
   * Classification models
       * Logistic regression
       * K Nearest Neighbours
